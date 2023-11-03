@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right bottom,#b7dde2,#00BCD4,#08bea3);
+}
+.navbar{
+    border-bottom: 5px solid dodgerblue;
+}
+
+#authors .fab{
+    color: white;
+}
+#authors .fab:hover{
+    color: white;
+}
+#services .card:hover{
+    background-color: black;
+    color: white;
+}
